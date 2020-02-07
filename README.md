@@ -8,7 +8,7 @@ Provides the POST /check-versions method that takes two version numbers and retu
 Future improvements:
 - adding the GET method for comparison versions
 - adding Internationalization Support 
-- adding integration with in-memory database to use it as cache for results to improve perfomance (controversial)
+- adding integration with in-memory database to use it as cache for results to improve perfomance (optional)
 
 **Check versions**
 ----
